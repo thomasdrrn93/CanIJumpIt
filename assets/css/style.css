@@ -1,4 +1,11 @@
 #canvas{
+  display: block;
   margin: auto;
+  margin-top: 50px;
   background: url(../images/background.png);
+}
+
+body{
+  width: 99vw;
+  height: 90vh;
 }
