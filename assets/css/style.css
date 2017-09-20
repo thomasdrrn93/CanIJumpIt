@@ -8,4 +8,5 @@
 body{
   width: 99vw;
   height: 90vh;
+  background: url(../images/background.jpg);
 }
