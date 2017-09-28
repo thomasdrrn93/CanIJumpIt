@@ -9,4 +9,29 @@ body{
   width: 99vw;
   height: 90vh;
   background: url(../images/background.jpg);
+  position: relative;
+}
+
+#splash{
+  width:250px;
+  height: 150px;
+  background: #d64e00;
+  position: absolute;
+  top: 150px;
+  left: 520px;
+  color: white;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-style: italic;
+}
+
+#text{
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+#enter{
+  margin-top: 10px;
 }
